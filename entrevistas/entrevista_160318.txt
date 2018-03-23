@@ -1,0 +1,101 @@
+Entrevista:
+
+Paolo Biteroti (Un aventon).
+30 minutos.
+Aula 1-3.
+
+* País - Argentina (Alcance).
+
+* Por ahora sistemas web, no busca aplicación, en el futuro escalar a apk.
+
+* Sistema a disposición para cualquiera.
+
+
+Historia:
+
+Se esta encareciendo los precios de combustible.
+"Un lujo andar en auto"
+Coordinaba por whatsapp y facebook.
+
+
+Estetica:
+
+Mismo logo y colores relacionados.
+Intuitivo.
+
+
+Modo de uso:
+
+Publicar un viaje de un punto a otro.
+el usuario del auto elige quien va con él.
+Dividir gastos.
+Registro de auto o autos.
+Costo público.
+Solo viajes de ida (De punto A a punto B).
+Un usuario puede ser chofer y pasajero.
+
+
+Modo de registro:
+
+Pedir número de tarjeta (no durante el registro).
+Mes gratis.
+Puede conocer la plataforma sin registrar la tarjeta, pero para usar la aplicación si o si pide tarjeta.
+
+
+Tipos de usuario:
+
+Visitante.
+Usuario.
+Administrador (Saber ganancias).
+
+
+Modo de pago:
+"Quiere sacar ganancia"
+
+Desde la aplicación.
+EL VIAJE (Combustible + peajes) (SE DIVIDE GASTOS EN NOMBRE DE PASAJEROS).
+Descuenta un 5% del total.
+Uso de tarjeta (credito - debito).
+Una vez completado el cupo define costos.
+Se divide por el grupo de personas que se transporten.
+Posterior al viaje se paga todo.
+
+
+Modo de comunicación:
+
+Método de comunicación (Tipo mercado libre - Contesta sólo el conductor).
+Si los pasajeros son aceptados, pueden ver algunos contacos.
+No chat.
+Una vez que se concreta el viaje, se pueden ver algunos datos de contacto.
+
+
+Condiciones:
+
+Si un acompañante haya sido elegido y se de baja hay penalización (el sistema quita un punto en su reputación).
+Si un chofer da de baja al viaje (el sistema quita puntos según los perjudicados).
+Estar al día en pagos.
+La plataforma debería moderarse sola.
+
+
+Sistema de Reputación (Simple):
+
+Cuando se llega a fecha y hora del viaje (se realiza calificación).
+Calificación para chofer y acompañante (Acumulación de deditos arriba , deditos abajo y neutral, junto con una observación o aclaración).
+Modo unidireccional.
+Calificación obligatoria.
+Tener un perfil de reputación y un perfil un poco más ampliado con datos (email, foto, calificaciones, viajes ofrecidos y hechos.).
+
+
+Criterios de busqueda (Todos los usuarios lo pueden hacer):
+
+No busca por recorrido, solo origen - destino por separado.
+Fecha (Sólo visible un mes para adelante - Procimos 30 días).
+Tipo de auto.
+Hora.
+En especial ordenar por precio.
+
+
+Tareas:
+
+Para el día 29, entrevistas, sintesis, realizar RSC.
+Preguntas más detalladas sobre los elementos de la plataforma.
