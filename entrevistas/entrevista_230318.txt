@@ -1,1 +1,62 @@
+Entrevista:
+
+Paolo Biteroti (Un aventon).
+30 minutos.
+Aula 1-3.
+
+Historia:
+
+
+Estetica:
+
+
+Modo de uso:
+
+
+Modo de registro:
+
+Que viajes se realiza como chofer y acompañante (se almacena historial).
+No hay mes gratis.
+Cargar caracteristicas de auto modelo (marca, patente, color).
+
+Tipos de usuario:
+
+
+Modo de pago:
+
+El conductor publica el viaje se le cobra el 5% del viaje.
+El sistema de pago se habilita en el momento del viaje para los acompañantes, se puede pagar en cualquier momento.
+Cuenta corriente interna que lleva el control y el manejo del dinero.
+Simular consultas y validaciones (servicio).
+Se puede retirar o transferir el dinero a otro servicio.
+
+
+Modo de comunicación:
+
+Cuando el conductor ofrece el viaje se hace visible.
+Cuando el conductor acepta al acompañante, la información del acompañante se hace visible.
+
+
+Condiciones:
+
+El usuario debe de estar al día con los pagos y con las calificaciones hacia los demás (no se puede dar de alta, de baja).
+Mientras estén concretados las acciones siguientes no se pueden cancelar.
+"Me debe calificaciones o dinero".
+"Yo me bajo" Si el conductor no ha elegido como acompañante se puede bajar.
+"Si se cerro el trato" se penaliza al que no cumpla.
+"El sistema le cobra conductor, siempre va a cobrar el 5%" Realice o no el viaje se cobra el 5%.
+Cuando el conductor da de alta el viaje ofrece las plazas libres.
+
+Sistema de Reputación (Simple):
+
+Hay que manejar un historico (listado - paginado).
+Ver ĺas últimas 10 y un poco que permitan ver más.
+Arranca con 0 puntos, las positivas suman un punto y las negativa restan un poco, las neutrales no.
+Confirmación antes de comentar.
+Chofer califica a los acompañantes.
+Acompañantes califica al chofer.
+Si el conductor cancela con acompañantes (La penelización es en función a los números de acompañantes).
+
+
+Criterios de busqueda (Todos los usuarios lo pueden hacer):
 
