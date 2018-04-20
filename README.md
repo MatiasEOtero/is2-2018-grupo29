@@ -21,4 +21,4 @@
 ### Entrega 02
 
 * DER (Diagrama Entidad Relación)
-123
+
