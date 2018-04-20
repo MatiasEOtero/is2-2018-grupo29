@@ -6,3 +6,4 @@ Integrantes:
 * Lahera Carlos Alberto
 * Ferro Gómez Fabián Guillermo
 * Matias Otero
+* Nicolas Areta
