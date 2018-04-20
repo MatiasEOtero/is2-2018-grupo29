@@ -16,3 +16,7 @@
 * Entrevista 02 - 220318
 * Funcionalidades
 * SRS
+
+### Entrega 02
+
+* DER (Diagrama Entidad Relación)
