@@ -22,3 +22,7 @@
 
 * DER (Diagrama Entidad Relación)
 
+### Entrega 03
+
+* PGP (Plan de Gestión de Proyecto)
+* Tratamiento de Riesgos
