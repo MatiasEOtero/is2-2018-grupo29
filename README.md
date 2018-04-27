@@ -26,3 +26,4 @@
 
 * PGP (Plan de Gestión de Proyecto)
 * Tratamiento de Riesgos
+* Minuta 03 - 200418
