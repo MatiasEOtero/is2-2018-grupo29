@@ -24,6 +24,6 @@
 
 ### Entrega 03
 
+* Minuta 03 - 200418
 * PGP (Plan de Gestión de Proyecto)
 * Tratamiento de Riesgos
-* Minuta 03 - 200418
