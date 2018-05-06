@@ -1,2 +1,0 @@
-vle1 = asdasdsad.
-variable2 = 23444.
