@@ -1,2 +1,2 @@
-variable1 = 345.
+variable1 = asdasdsad.
 variable2 = 23444.
