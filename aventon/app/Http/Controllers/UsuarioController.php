@@ -29,7 +29,7 @@ class UsuarioController extends Controller
         $usuario->apellido = $request->apellido;
         $usuario->password = $request->password;
         $usuario->email = $request->email;
-        $usuario->fechanacimiento = $request->fechanacimiento;
+        $usuario->fechanacimiento = $request->fechanacimiento; // Se rompe el programa al ingresar una fecha no valida //
         $usuario->calificacion = 0;
         $usuario->cuenta = 0;
         $usuario->deudapenalizado = 0;
