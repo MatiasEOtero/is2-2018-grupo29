@@ -8,6 +8,8 @@
             <a class="btn btn-primary float-right" role="button" href="{{ route('usuarios.index') }}">Listado</a>
         </h2>
 
+        @include('usuarios.fragment.error')
+
         {!! Form::model($usuario, ['route' => ['usuarios.update', $usuario->id], 'method' => 'PUT']) !!}
 
             @include('usuarios.fragment.form')

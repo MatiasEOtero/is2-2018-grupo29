@@ -21,6 +21,7 @@
                 <tr>
                     <td>{{ $usuario->id }}</td>
                     <td>{{ $usuario->name }}</td>
+                    <td>{{ $usuario->apellido }}</td>
                     <td>
                         <a class="btn btn-link" href="{{ route('usuarios.show', $usuario->id) }}">ver</a>
                     </td>
