@@ -10,6 +10,6 @@ class UsuarioController extends Controller
     public function index()
     {
         $usuarios = Usuario::orderBy('Id', 'DESC')->paginate();
-        return view('index', compact('usuarios'));
+        return view('listado', compact('usuarios'));
     }
 }
