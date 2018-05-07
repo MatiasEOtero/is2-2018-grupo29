@@ -13,10 +13,8 @@
         <p>
           {{ $usuario->fechanacimiento }}
         </p>
-        <p>
-          {{ $usuario->cuenta }}
-        </p>
-        {!! $usuario->body !!}
+
+        {!! $usuario->cuenta !!}
     </div>
         <vid class="col-4">
         @include('usuarios.fragment.aside')

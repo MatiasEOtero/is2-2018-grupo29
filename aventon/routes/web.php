@@ -15,4 +15,8 @@ Route::get('/', function () {
     return view('bienvenida');
 });
 
+Route::get('/contacto', function () {
+    return view('contacto');
+});
+
 Route::resource('usuarios', 'UsuarioController');

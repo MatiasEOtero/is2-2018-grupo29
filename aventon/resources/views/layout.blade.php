@@ -9,9 +9,9 @@
     <link rel="stylesheet" href="/css/bootstrap.min.css">
 </head>
 <body>
-    <div class="container">
+    <div class="container-fluid">
     <nav class="navbar navbar-expand-lg navbar-light bg-light" style="margin-bottom: 30px">
-      <a class="navbar-brand" href="#">Aventon</a>
+      <a class="navbar-brand" href="{{ url('/') }}">Aventon</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -19,7 +19,7 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="#">Home <span class="sr-only"></span></a>
+            <a class="nav-link" href="{{ url('/contacto') }}">Contacto <span class="sr-only"></span></a>
           </li>
         </ul>
         <form class="form-inline my-2 my-lg-0">
