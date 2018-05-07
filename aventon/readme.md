@@ -8,6 +8,7 @@
 
 ##Artisan (Carpeta Proyecto):
 
+* php artisan key:generate
 * php artisan make:seeder UsuariosTableSeeder
 * php artisan make:model Usuario -mc
 * php artisan migrate:refresh --seed
